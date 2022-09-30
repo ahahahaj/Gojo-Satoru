@@ -3385,7 +3385,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوت غـوجـو 👋🏻」◣
-││✑「مـن مـمـلـكـة غولد 🤗」◣
+││✑「مطور البوت لايت 🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
 │✙「 اسـم الـبـوت 」◣ : 「 غوجو ✨🤞🏻 」◣
@@ -3440,7 +3440,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوت غـوجـو 👋🏻」◣
-││✑「مـن مـمـلـكـة غولد 🤗」◣
+││✑「مطور البوت لايت🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
 │✙「 اسـم الـبـوت 」◣ : 「 غوجو ✨🤞🏻 」◣
@@ -3492,7 +3492,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 		    「https://youtu.be/MBPIx3f-VIA」◣
 		    「 اتمنى ان تعملو اشتراك للقناة وتنشروها اذا تقدرو عشان ينتشر المقطع كمان والكل يستفيد وجزاه الله خير الي يشترك 💖🤗」◣                 
  「 رابط فرع التعليم على البوت」◣
-		    「https://chat.whatsapp.com/Gb62eN2S5yI9mhfdn6Ma4z」◣
+		    「https://chat.whatsapp.com/HM8bHOyD7cHDn82txihKNA」◣
 		    「 الي محتاج شروحات ينضم 」◣`,
                     description: `「 اختر قائمة من فضلك 」◣`,
                     buttonText: "「 القائمة 」◣",
@@ -3622,7 +3622,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             case 'التسجhgjيل': case 'التسجيل': {
                 reply(`「 الفرع الخاص ل التعليم على البوت 」◣
 
-「 _https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3_ 」◣
+「 _https://chat.whatsapp.com/HM8bHOyD7cHDn82txihKNA_ 」◣
 
 「 نرحب بالجميع. 」◣`)
             }
